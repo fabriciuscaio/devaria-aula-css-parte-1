@@ -1,8 +1,36 @@
 
+main {
+    text-align: center;
+}
+
 .cover-container figure img{
     width: 100%;
 }
 
-#iframe {
-    width: 100%;
+main h3.title {
+    font-size: 1.2em;
+}
+
+section h3 abbr {
+    color: #25cbd3;
+}
+
+@media screen and (min-width: 992px) {
+    .cover-container {
+        width: 40%;
+    }
+
+    .cover-container,
+    .section-video {
+        display: inline-block;
+    }
+
+    .fafa {
+        width: 70%;
+        margin: auto;
+        margin-bottom: 25px;
+        text-justify: center;
+    }
+
+
 }
