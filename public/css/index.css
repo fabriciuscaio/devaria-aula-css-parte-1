@@ -1,8 +1,4 @@
 
-main {
-    text-align: center;
-}
-
 .cover-container figure img{
     width: 100%;
 }
@@ -24,13 +20,4 @@ section h3 abbr {
     .section-video {
         display: inline-block;
     }
-
-    .fafa {
-        width: 70%;
-        margin: auto;
-        margin-bottom: 25px;
-        text-justify: center;
-    }
-
-
 }
